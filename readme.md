@@ -1,3 +1,3 @@
 # Theme default
 
-this is theme default of VV-UI
+the theme default for HIVE
